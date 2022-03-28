@@ -2,6 +2,8 @@
 
 Ferramenta objetiva de desenvolvimentos de gráficos. O projeto ainda está em desenvolvimento, acompanhe os próximos passos de aprimoramento na sessão de "Issues". :pushpin:
 
+Biblioteca utilizada para gerar os gráficos: https://gionkunz.github.io/chartist-js/
+
 
 ## Instalação
 
