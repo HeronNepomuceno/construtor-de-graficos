@@ -128,9 +128,9 @@ export default {
     showGraph() {
       var data = {
         labels: this.item_name,
-        series: this.item_number
+        series: [this.item_number]
       }
-      new Chartist.Pie(".ct-chart", data)
+      new Chartist.Line(".ct-chart", data)
     },
   },
 }
