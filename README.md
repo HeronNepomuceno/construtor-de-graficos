@@ -1,8 +1,6 @@
 # Gerador de Gráficos :bar_chart:
 
-Ferramenta objetiva de desenvolvimentos de gráficos. :chart_with_upwards_trend:
-O projeto ainda está em desenvolvimento, acompanhe os próximos passos de aprimoramento na sessão de Issues. :pushpin:
-A aplicação deve ser multiplataforma, desktop, web e mobile utilizando Vuejs. :iphone:
+Ferramenta objetiva de desenvolvimentos de gráficos. O projeto ainda está em desenvolvimento, acompanhe os próximos passos de aprimoramento na sessão de "Issues". :pushpin:
 
 
 ## Instalação
