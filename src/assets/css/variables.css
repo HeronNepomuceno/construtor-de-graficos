@@ -1,0 +1,17 @@
+:root {
+  /* FONTES ✍ */
+  --fontPrimary: 'Oxygen', sans-serif;
+
+
+  /* MATERIAL COLORS 🎨 */
+  --grey-darken-4: #212121;
+  --blue-grey-darken-1: #546E7A;
+  --grey-lighten-4: #F5F5F5;
+  --amber-lighten-2: #FFD54F;
+  --grey-darken-1: #757575;
+  --red-darken-1: #E53935;
+}
+
+path {
+  transition: all .5s;
+}
