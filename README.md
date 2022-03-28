@@ -1,29 +1,28 @@
-# graph-builder
+# Gerador de Gráficos :bar_chart:
 
-## Project setup
+Ferramenta objetiva de desenvolvimentos de gráficos. O projeto ainda está em desenvolvimento, acompanhe os próximos passos de aprimoramento na sessão de "Issues". :pushpin:
+
+Biblioteca utilizada para gerar os gráficos: https://gionkunz.github.io/chartist-js/
+
+
+## Instalação
+
+### Execute o comando abaixo para clonar o repositório:
+```
+git clone https://github.com/HeronNepomuceno/construtor-de-graficos.git
+```
+
+### Execute o comando abaixo para entrar na pasta do projeto:
+```
+cd construtor-de-graficos
+```
+
+### Execute o comando abaixo para instalar todas as dependências do projeto:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Excute o comando abaixo para rodar o servidor:
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
